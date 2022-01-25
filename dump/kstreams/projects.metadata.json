@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"kstreams.projects"}],"uuid":"d7f55c662b744920b50ab40c1fa1cec9"}
